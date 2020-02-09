@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    margin: auto;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.5em;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+}
