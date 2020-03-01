@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca7cc570b1c6655000dcaae5028e3e2c",
+    "revision": "106de2ac8ea3c5a2024330f867bee96b",
     "url": "/infant-mortality-in-africa/index.html"
   },
   {
-    "revision": "e6d2eb499654ba41a68e",
-    "url": "/infant-mortality-in-africa/static/css/main.17be240a.chunk.css"
+    "revision": "8eb6ad22577802deb463",
+    "url": "/infant-mortality-in-africa/static/css/main.e54b4ab8.chunk.css"
   },
   {
     "revision": "62d8b1f6f691d91e0a09",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infant-mortality-in-africa/static/js/2.21d99601.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6d2eb499654ba41a68e",
+    "revision": "8eb6ad22577802deb463",
     "url": "/infant-mortality-in-africa/static/js/main.50cd5f57.chunk.js"
   },
   {

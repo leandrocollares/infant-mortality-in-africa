@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/infant-mortality-in-africa/precache-manifest.97475d70cebe6d3463905fe8d52bf38e.js"
+  "/infant-mortality-in-africa/precache-manifest.50033a927feec3de44259c3c61148627.js"
 );
 
 self.addEventListener('message', (event) => {

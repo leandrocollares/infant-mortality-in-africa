@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/infant-mortality-in-africa/static/css/main.17be240a.chunk.css",
+    "main.css": "/infant-mortality-in-africa/static/css/main.e54b4ab8.chunk.css",
     "main.js": "/infant-mortality-in-africa/static/js/main.50cd5f57.chunk.js",
     "main.js.map": "/infant-mortality-in-africa/static/js/main.50cd5f57.chunk.js.map",
     "runtime-main.js": "/infant-mortality-in-africa/static/js/runtime-main.31545391.js",
@@ -8,16 +8,16 @@
     "static/js/2.21d99601.chunk.js": "/infant-mortality-in-africa/static/js/2.21d99601.chunk.js",
     "static/js/2.21d99601.chunk.js.map": "/infant-mortality-in-africa/static/js/2.21d99601.chunk.js.map",
     "index.html": "/infant-mortality-in-africa/index.html",
-    "precache-manifest.97475d70cebe6d3463905fe8d52bf38e.js": "/infant-mortality-in-africa/precache-manifest.97475d70cebe6d3463905fe8d52bf38e.js",
+    "precache-manifest.50033a927feec3de44259c3c61148627.js": "/infant-mortality-in-africa/precache-manifest.50033a927feec3de44259c3c61148627.js",
     "service-worker.js": "/infant-mortality-in-africa/service-worker.js",
-    "static/css/main.17be240a.chunk.css.map": "/infant-mortality-in-africa/static/css/main.17be240a.chunk.css.map",
+    "static/css/main.e54b4ab8.chunk.css.map": "/infant-mortality-in-africa/static/css/main.e54b4ab8.chunk.css.map",
     "static/js/2.21d99601.chunk.js.LICENSE.txt": "/infant-mortality-in-africa/static/js/2.21d99601.chunk.js.LICENSE.txt",
     "static/media/imr.csv": "/infant-mortality-in-africa/static/media/imr.99f069d5.csv"
   },
   "entrypoints": [
     "static/js/runtime-main.31545391.js",
     "static/js/2.21d99601.chunk.js",
-    "static/css/main.17be240a.chunk.css",
+    "static/css/main.e54b4ab8.chunk.css",
     "static/js/main.50cd5f57.chunk.js"
   ]
 }
